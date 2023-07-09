@@ -12,6 +12,6 @@ screen = pygame.display.set_mode((display_width,display_height))
 # other crap
 run = True
 fps = 15
-ball_size = 20
+ball_size = 10
 
 #cahnge test 
